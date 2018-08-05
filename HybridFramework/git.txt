@@ -1,3 +1,4 @@
+
 Create github account
 Download and install GIT
 PC folder -> Staging -> Local rep -> Github Rep
@@ -15,3 +16,6 @@ git commit -m "firstcommit" -> Move to local rep
 https://github.com/ashishselenium1/testwork.git -> Register remote rep with local
 git push -u origin master -> Pushes project to base branch
 git status -  will tell if something changed
+
+C:\Users\lenovo\.jenkins\jobs\Rediff\workspace\HybridFramework - path in local
+${JENKINS_HOME}\jobs\Rediff\workspace\HybridFramework\build.xml
