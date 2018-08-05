@@ -1,4 +1,3 @@
-
 Create github account
 Download and install GIT
 PC folder -> Staging -> Local rep -> Github Rep
