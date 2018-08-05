@@ -1,0 +1,17 @@
+Create github account
+Download and install GIT
+PC folder -> Staging -> Local rep -> Github Rep
+
+Register yourself with GIT. Connect local with git rep
+git config --global user.name "ashishselenium1"
+git config --global user.email "appiumselendroid@gmail.com"
+You might get popup for user id and password. Enter git credentials
+
+
+
+git init - parallel to project folder 
+git add . -> Move to staging
+git commit -m "firstcommit" -> Move to local rep
+git remote add origin git@github.com:ashishselenium/junweekend18.git -> Register remote rep with local
+git push -u origin master -> Pushes project to base branch
+git status -  will tell if something changed

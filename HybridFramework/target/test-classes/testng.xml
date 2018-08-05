@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="My Sample Suite" >
+<test name="Login Test">
+    <classes>
+        <class name="com.qtpselenium.testcases.LoginTest" ></class>  
+    </classes>
+</test>
+
+<test name="Create Portfolio Test">
+    <classes>
+        <class name="com.qtpselenium.testcases.CreatePortfolioTest" ></class>  
+    </classes>
+</test>
+
+<test name="Delete Portfolio Test">
+    <classes>
+        <class name="com.qtpselenium.testcases.DeletePortfolioTest" ></class>  
+    </classes>
+</test>
+
+</suite>
