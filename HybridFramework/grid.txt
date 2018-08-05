@@ -1,5 +1,3 @@
-
-
 Hub setup->
 java -jar D:\Whizdom-Trainings\Old\jars\selenium-server-standalone-3.13.0.jar -role hub
 

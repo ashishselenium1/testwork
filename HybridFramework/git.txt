@@ -9,9 +9,9 @@ You might get popup for user id and password. Enter git credentials
 
 
 
-git init - parallel to project folder 
-git add . -> Move to staging
+git init - parallel to project folder - in the workspace path 
+git add HybridFramework -> Move to staging
 git commit -m "firstcommit" -> Move to local rep
-git remote add origin git@github.com:ashishselenium/junweekend18.git -> Register remote rep with local
+https://github.com/ashishselenium1/testwork.git -> Register remote rep with local
 git push -u origin master -> Pushes project to base branch
 git status -  will tell if something changed
